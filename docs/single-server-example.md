@@ -46,6 +46,7 @@ Clone `frappe_docker` repo for the needed YAMLs and change the current working d
 ```shell
 git clone https://github.com/frappe/frappe_docker
 cd frappe_docker
+git checkout compat-2022
 ```
 
 Create configuration and resources directory
